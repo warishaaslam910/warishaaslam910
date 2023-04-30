@@ -10,13 +10,13 @@
 
 ###
 
-<h3 align="center">Hi 👋! My name is Warisha .I am currently a student pursuing my degree in Bachelors in Computer Science.</h3>
+<h2 align="center">Hi 👋! My name is <b> Warisha</b> .I am currently a student pursuing my degree in Bachelors in Computer Science.</h2>
 
 ###
 
 <br clear="both">
 
-<p align="center">Languages &  Tools</p>
+<h1 align="center">Languages &  Tools</h1>
 
 ###
 
