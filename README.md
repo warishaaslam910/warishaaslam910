@@ -1,3 +1,5 @@
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
 <br clear="both">
 
 <div align="center">
@@ -6,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"  />
+<img align="right" height="200" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"  />
 
 ###
 
@@ -60,8 +62,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/warishaaslam910/warishaaslam910/output/snake.svg" alt="Snake animation" />
-
-###
