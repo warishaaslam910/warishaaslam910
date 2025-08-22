@@ -1,10 +1,6 @@
 
 <br clear="both">
 
-
-
-
-
 <div align="center">
   <h1 style="font-size: 3.5vw; font-weight: bold; animation: fade-in 2s;">Hi 👋, I'm Warisha</h1>
   <h3 style="font-size: 2vw; color: #666; animation: fade-in 2.5s;">
@@ -14,6 +10,29 @@
 
 
 ###
+
+<!-- Contact Information -->
+<div style="margin-top: 40px; text-align: center;">
+  <h2 style="font-size: 2vw; font-weight: bold; animation: fade-in 2s;">Get in Touch:</h2>
+  <p style="font-size: 1.5vw; margin-bottom: 20px;">warishaaslam123@gmail.com</p>
+  <a href="mailto:warishaaslam123@gmail.com" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Email Me</a>
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/warishaaslam" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warishaaslam" height="30" width="40" />
+  </a>
+</p>
+
+<!-- Portfolio Section -->
+<div style="margin-top: 40px; text-align: center;">
+  <h2 style="font-size: 2vw; font-weight: bold; animation: fade-in 2s;">Portfolio Website</h2>
+  <a href="https://warishaaslam.vercel.app/" target="_blank" style="background-color: #28a745; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
+    🌐 Visit My Portfolio
+  </a>
+</div>
+
 
 <br clear="both">
 
@@ -54,12 +73,13 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=warishaaslam910&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=warishaaslam910&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-<!--   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=warishaaslam910&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  /> -->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=warishaaslam910&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true" height="150" alt="languages graph"  />
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=warishaaslam910&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph" />
+  
+  <img src="https://streak-stats.demolab.com?user=warishaaslam910&locale=en&mode=daily&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=warishaaslam910&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true" height="150" alt="languages graph" />
 </div>
+
 
 ###
 
