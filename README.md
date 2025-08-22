@@ -1,18 +1,17 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <br clear="both">
 
+
+
+
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/warishaaslam910/count.svg?"  />
+  <h1 style="font-size: 3.5vw; font-weight: bold; animation: fade-in 2s;">Hi 👋, I'm Warisha</h1>
+  <h3 style="font-size: 2vw; color: #666; animation: fade-in 2.5s;">
+    Flutter Developer & Passionate Builder of Scalable Mobile Applications from Karachi, Pakistan.
+  </h3>
 </div>
 
-###
-
-<img align="right" height="200" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"  />
-
-###
-
-<h2 align="center">Hi 👋! My name is <b> Warisha</b> .I am currently a student pursuing my degree in Bachelors in Computer Science.</h2>
 
 ###
 
